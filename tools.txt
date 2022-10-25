@@ -1,0 +1,18 @@
+    <article className="grid grid-cols-3 gap-11">
+        <
+        <div>
+            <DiHtml5 className="text-white text-8xl" />
+        </div>
+        <div>
+            <DiCss3 className="text-white text-8xl"/>
+        </div>
+        <div>
+            <DiJavascript1 className="text-white text-8xl"/>
+        </div>
+        <div>
+            <DiPython className="text-white text-8xl"/>
+        </div>
+        <div>
+            <DiRuby className="text-white text-8xl"/>
+        </div>
+    </article>
